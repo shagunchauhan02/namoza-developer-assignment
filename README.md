@@ -81,7 +81,7 @@ Also explained:
 - `index.html`
 - `Task1_GTM_Event_Schema.pdf`
 - `Task3_Integration_Design.pdf`
-- Landing Page Screenshots
+-  PageSpeed Screenshots
 
 ---
 
